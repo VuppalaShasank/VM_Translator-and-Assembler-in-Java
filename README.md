@@ -18,4 +18,17 @@ It consists of two main classes:
 
 ---
 
-## 🗂 Project Structure
+
+
+## ⚙️ Requirements
+- **Java 8+**
+- Any text editor or IDE (IntelliJ, Eclipse, VS Code, etc.)
+- Command-line access to run `javac` and `java`
+
+---
+
+## 📖 Usage
+
+### 1️⃣ Compile the code
+```bash
+javac Assembly.java Translator.java
